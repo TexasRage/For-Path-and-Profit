@@ -1,13 +1,19 @@
 @use "./variables.scss" as *;
 
 @font-face {
-  font-family: "Fira Sans";
+  font-family: "Fira Sans Local";
   src: url("/static/fonts/FiraSans-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: "Exo 2";
+  font-family: "Exo 2 Local";
   src: url("/static/fonts/Exo2-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }
 
 /* Weapon Card */
@@ -42,7 +48,7 @@
   align-items: center;
   justify-content: center;
   font-size: 1.5em;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Fira Sans Local", sans-serif;
 }
 
 .weapon-range {
@@ -56,7 +62,7 @@
   justify-content: center;
 
   font-size: 1.5em;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Fira Sans Local", sans-serif;
 }
 
 .weapon-encumbrance {
@@ -68,7 +74,7 @@
   align-items: center;
   justify-content: center;
   font-size: 1.7em;
-  font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2 Local", sans-serif;
 }
 
 .weapon-price {
@@ -80,7 +86,7 @@
   align-items: center;
   justify-content: center;
   font-size: 1.7em;
-  font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2 Local", sans-serif;
 }
 
 .weapon-rarity {
@@ -92,7 +98,7 @@
   align-items: center;
   justify-content: center;
   font-size: 1.7em;
-  font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2 Local", sans-serif;
 }
 
 /* Large stats */
@@ -105,7 +111,7 @@
   align-items: center;
   justify-content: center;
   font-size: 2.5em;
-  font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2 Local", sans-serif;
 }
 
 .weapon-critical {
@@ -117,7 +123,7 @@
   align-items: center;
   justify-content: center;
   font-size: 2.5em;
-  font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2 Local", sans-serif;
 }
 
 .weapon-hp {
@@ -129,7 +135,7 @@
   align-items: center;
   justify-content: center;
   font-size: 2.5em;
-  font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2 Local", sans-serif;
 }
 
 /* Special */
@@ -142,5 +148,5 @@
   align-items: center;
   justify-content: center;
   font-size: 1.5em;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Fira Sans Local", sans-serif;
 }
