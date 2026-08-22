@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: texasrage.github.io/for-path-and-profit
+  baseUrl: texasrage.github.io/For-Path-and-Profit
   ignorePatterns:
     - private
     - templates
