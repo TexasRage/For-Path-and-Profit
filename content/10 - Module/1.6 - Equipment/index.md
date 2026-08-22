@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-08-22T13:56:32.619Z
-modified: 2026-08-21T23:57:04.749Z
+modified: 2026-08-22T13:59:01.791Z
 ---
+
+# For Path and Profit
 
 The Expedition relies on equipment to survive Mycorris, explore its wilderness, and overcome the challenges encountered during its operations. Equipment ranges from weapons and armor to specialized gear, vehicles, mounts, and attachments.
 
