@@ -1,37 +1,22 @@
 ---
 publish: true
 created: 2026-08-21T04:18:31.750Z
-modified: 2026-08-22T02:08:46.781Z
+modified: 2026-08-22T12:03:20.241Z
 ---
 
-```dataviewjs
-const p = dv.current();
-
-const card = document.createElement("div");
-card.className = "weapon-card";
-
-const image = document.createElement("img");
-image.src = app.vault.adapter.getResourcePath("10 - Module/Templates/weapon-card.png");
-card.appendChild(image);
-
-const fields = [
-    ["weapon-skill", p.skill],
-    ["weapon-range", p.range],
-    ["weapon-encumbrance", p.encumbrance],
-    ["weapon-price", p.price],
-    ["weapon-rarity", p.rarity],
-    ["weapon-damage", p.damage],
-    ["weapon-critical", p.critical],
-    ["weapon-hp", p.hp],
-    ["weapon-special", p.special]
-];
-
-for (const [className, value] of fields) {
-    const el = document.createElement("div");
-    el.className = className;
-    el.textContent = value ?? "—";
-    card.appendChild(el);
-}
-
-dv.container.appendChild(card);
+```swrpg
+layout: weapon
+skill: Ranged (Heavy)
+range: Medium
+encumbrance: 3
+price: 850
+rarity: 5
+damage: 9
+critical: 3
+hp: 4
+special: Stun Setting
 ```
+
+_Blaster Carbines_ provide a more compact alternative to full-sized _[[Blaster Rifle]]_. Their shortened barrels and reduced overall size sacrifice some range and accuracy in exchange for improved handling and portability. Many feature folding stocks, compact grips, and modular accessory systems.
+
+Their compact design allows them to be fired one-handed at **Short Range** without penalty, making _Blaster Carbines_ particularly effective during boarding actions, urban combat, and other close-quarters engagements where maneuverability is more valuable than maximum range
