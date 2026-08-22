@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-20T21:56:12.492Z
-modified: 2026-08-22T02:08:29.452Z
+modified: 2026-08-22T16:37:38.406Z
 ---
 
 Blasters are the most widespread firearms in the galaxy, ranging from compact concealed sidearms to heavy military support weapons. They are prized for their versatility, reliability, and adaptability, and can be found throughout civilized space.

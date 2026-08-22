@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-20T21:48:28.272Z
-modified: 2026-08-22T12:44:22.500Z
+modified: 2026-08-22T17:09:16.720Z
 ---
 
 Weapons are among the most common tools of violence throughout the galaxy, ranging from simple hunting bows and slugthrowers to military-grade blasters and exotic energy weapons.
