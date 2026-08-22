@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "folder-page": {
+      "source": "github:quartz-community/folder-page",
+      "resolved": "https://github.com/quartz-community/folder-page.git",
+      "commit": "213a8e98c4347aca9013c0dd5a15bc80a1dca604",
+      "installedAt": "2026-08-22T13:11:46.999Z"
+    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",

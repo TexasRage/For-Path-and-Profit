@@ -1,1 +1,1 @@
-export {}
+export { SWRPG } from "./swrpg"
