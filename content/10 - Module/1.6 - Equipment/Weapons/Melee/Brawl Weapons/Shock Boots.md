@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T22:49:11.728Z
-modified: 2026-08-25T22:01:21.963Z
+modified: 2026-08-25T22:20:52.144Z
 ---
 
 ```swrpg
@@ -9,9 +9,9 @@ layout: weapon
 skill: Brawl
 range: Engaged
 encumbrance: 2
-price: 1250
+price: 1,250
 rarity: 5
-damage: +0
+damage: "+0"
 critical: 5
 hp: 0
 special: Disorient 3, Stun 3

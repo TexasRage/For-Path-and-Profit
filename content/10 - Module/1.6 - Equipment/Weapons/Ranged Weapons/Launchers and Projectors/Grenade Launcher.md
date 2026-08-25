@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T03:49:39.242Z
-modified: 2026-08-25T22:02:49.587Z
+modified: 2026-08-25T22:24:04.149Z
 ---
 
 ```swrpg
@@ -9,7 +9,7 @@ layout: weapon
 skill: Gunnery
 range: Medium
 encumbrance: 5
-price: (R) 1250
+price: (R) 1,250
 rarity: 4
 damage: 8
 critical: 4

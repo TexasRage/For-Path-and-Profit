@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T23:26:13.486Z
-modified: 2026-08-25T00:34:46.403Z
+modified: 2026-08-25T22:22:55.739Z
 ---
 
 ```swrpg
@@ -11,7 +11,7 @@ range: Engaged
 encumbrance: 2
 price: 200
 rarity: 4
-damage: +2
+damage: "+2"
 critical: 6
 hp: 2
 special: Disorient 2, Stun Damage

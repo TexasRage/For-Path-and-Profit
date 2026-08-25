@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T07:02:12.578Z
-modified: 2026-08-25T03:41:35.029Z
+modified: 2026-08-25T22:21:25.376Z
 ---
 
 ```swrpg
@@ -9,7 +9,7 @@ layout: weapon
 skill: Ranged (Light)
 range: Short
 encumbrance: 1
-price: "(R) 250"
+price: (R) 250
 rarity: 6
 damage: 10
 critical: 4

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T22:40:56.345Z
-modified: 2026-08-25T22:01:10.388Z
+modified: 2026-08-25T22:20:38.810Z
 ---
 
 ```swrpg
@@ -9,9 +9,9 @@ layout: weapon
 skill: Brawl
 range: Engaged
 encumbrance: 2
-price: 2000
+price: 2,000
 rarity: 4
-damage: +2
+damage: "+2"
 critical: 4
 hp: 1
 special: Knockdown

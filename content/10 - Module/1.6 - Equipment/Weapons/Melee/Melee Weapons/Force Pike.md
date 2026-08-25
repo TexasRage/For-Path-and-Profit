@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T23:24:49.632Z
-modified: 2026-08-25T00:34:51.512Z
+modified: 2026-08-25T22:22:42.391Z
 ---
 
 ```swrpg
@@ -11,7 +11,7 @@ range: Engaged
 encumbrance: 3
 price: 500
 rarity: 4
-damage: +3
+damage: "+3"
 critical: 2
 hp: 3
 special: Pierce 2, Stun Setting

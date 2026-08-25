@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T23:28:20.186Z
-modified: 2026-08-25T00:34:29.715Z
+modified: 2026-08-25T22:23:15.711Z
 ---
 
 ```swrpg
@@ -11,7 +11,7 @@ range: Engaged
 encumbrance: 1
 price: 250
 rarity: 3
-damage: +1
+damage: "+1"
 critical: 2
 hp: 2
 special: Pierce 2, Vicious 1

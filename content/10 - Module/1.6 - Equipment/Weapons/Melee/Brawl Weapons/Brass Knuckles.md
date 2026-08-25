@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T22:40:09.231Z
-modified: 2026-08-25T22:01:04.206Z
+modified: 2026-08-25T22:20:10.236Z
 ---
 
 ```swrpg
@@ -11,7 +11,7 @@ range: Engaged
 encumbrance: 1
 price: 25
 rarity: 0
-damage: +1
+damage: "+1"
 critical: 4
 hp: 0
 special: Disorient 3

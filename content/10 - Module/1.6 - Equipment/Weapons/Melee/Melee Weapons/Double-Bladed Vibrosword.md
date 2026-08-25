@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T23:20:03.768Z
-modified: 2026-08-25T22:01:32.922Z
+modified: 2026-08-25T22:22:12.939Z
 ---
 
 ```swrpg
@@ -9,9 +9,9 @@ layout: weapon
 skill: Melee
 range: Engaged
 encumbrance: 4
-price: 1300
+price: 1,300
 rarity: 6
-damage: +2
+damage: "+2"
 critical: 2
 hp: 3
 special: Defensive 1, Linked 1, Pierce 2, Unwieldy 3, Vicious 1

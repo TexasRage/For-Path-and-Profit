@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T23:22:49.817Z
-modified: 2026-08-25T22:01:41.012Z
+modified: 2026-08-25T22:22:23.394Z
 ---
 
 ```swrpg
@@ -9,9 +9,9 @@ layout: weapon
 skill: Melee
 range: Engaged
 encumbrance: 4
-price: 4500
+price: 4,500
 rarity: 6
-damage: +4
+damage: "+4"
 critical: 3
 hp: 3
 special: Cumbersome 3, Linked 1, Stun Setting, Unwieldy 3
