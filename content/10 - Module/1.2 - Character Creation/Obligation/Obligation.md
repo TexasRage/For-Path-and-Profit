@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-11T00:34:03.251Z
-modified: 2026-08-22T17:03:34.434Z
+created: 2026-08-24T02:28:52.026Z
+modified: 2026-08-23T15:58:53.336Z
 ---
 
 Obligation represents the responsibilities, problems, and personal ties that a character carries with them into the Mycorris Expedition. These obligations can be tangible, such as a debt owed, a binding contract, or a promise that must be fulfilled. They can also be personal, such as responsibility for another person, loyalty to an organization, or a duty that the character cannot ignore.

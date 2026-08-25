@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-11T00:50:48.248Z
-modified: 2026-08-22T17:02:12.623Z
+modified: 2026-08-22T17:15:43.200Z
 ---
 
 Every character has a reason for joining the Republic Expedition to Mycorris. Motivation helps define what drives a character forward, what they hope to accomplish, and what makes their journey meaningful.
@@ -37,23 +37,11 @@ Some Careers also provide an additional Motivation category representing goals o
 
 | d10 | Primary Motivation                      |
 | --- | --------------------------------------- |
-| 1-2 | Ambition                                |
-| 3-4 | Cause                                   |
-| 5-6 | Relationship                            |
+| 1-2 | [[Specific Ambitions\|Ambitions]]       |
+| 3-4 | [[Specific Causes\|Causes]]             |
+| 5-6 | [[Specific Relationships\|Relationship]] |
 | 7-9 | Career Specific Motivation              |
 | 10  | Roll once on each of any two categories |
-
-### AMBITION
-
-A character with an Ambition Motivation is driven by a personal goal, often centered on self-improvement or achievement. They may seek love, wealth, status, power, knowledge, or another personal desire. For specific categories of ambition, see [[Specific Ambitions]], which details the types of ambitions players can choose from. They should consider what they ultimately hope to achieve and why it matters to them.
-
-### CAUSE
-
-A character with a Cause Motivation is driven by an external group, belief, or ideal that they consider important. They are willing to take risks or step outside their comfort zone to support their cause, which may benefit others, serve their own interests, or even promote beliefs that others consider dangerous or harmful. Players can roll on [[Specific Causes]], which lists the different types of causes.
-
-### RELATIONSHIP
-
-A character with a Relationship Motivation is driven by their connection to a specific person, creature, group, or place. The relationship may be loving, respectful, competitive, antagonistic, or one-sided, but the character is willing to set aside their own needs to protect or support its subject. Players can look at [[Specific Relations]] for the different types of relations.
 
 ## MOTIVATIONS IN PLAY
 

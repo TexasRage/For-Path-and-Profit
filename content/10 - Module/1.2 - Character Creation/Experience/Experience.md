@@ -1,32 +1,41 @@
 ---
 publish: true
 created: 2026-08-11T06:01:08.098Z
-modified: 2026-08-22T16:50:57.111Z
+modified: 2026-08-22T17:12:17.732Z
 ---
 
 Experience points (XP) are used to improve a character during both character creation and play. During character creation, XP may be spent to increase characteristics, purchase skill ranks, acquire talents, and purchase additional Specializations.
 
-A summary of these costs is provided in the table [[Spending Experience]].
+A summary of these costs is provided in the table Spending Experience.
 
-## CHARACTERISTICS
+#### Spending Experience
+
+| Options                                                                                                                                               | Cost                                                                                                                                           | Character Creation Limits                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| May spend experience to increase Characteristics. Character creation is the only time characters can increase Characteristics with experience points. | Ten times the purchased rating in experience. Each rating must be purchased sequentially.                                                      | May not purchase any Characteristic above 5 during character creation. |
+| May spend experience to purchase ranks in Skills.                                                                                                     | Five times the purchased rank in experience. Each rank must be purchased sequentially. (Each rank in a non-Career Skill costs 5 additional XP) | May not purchase any Skill above 2 during character creation.          |
+| May spend experience to purchase Talents within Specializations.                                                                                      | Depends on Talent's position within the Specialization tree.                                                                                   | No special limits, only standard limits apply.                         |
+| May spend experience to purchase newSpecializations.                                                                                                  | Ten times the number of purchased Specializations, including the new Specialization. (Each non-Career Specialization costs 10 additional XP).  | No special limits, only standard limits apply.                         |
+
+## Characteristics
 
 During character creation, increasing a characteristic costs 10 × the new rating. Each increase must be purchased separately. Characteristics may not be increased above 5 during character creation or above 6 during play.
 
 Characteristics may only be increased with experience during character creation. After play begins, they can only be increased through talents or other game effects.
 
-## SKILLS
+## Skills
 
 Characters may purchase ranks in both Career Skills and non-Career Skills. Purchasing a rank in a Career Skill costs 5 × the new rank. Purchasing a rank in a non-Career Skill costs an additional 5 XP.
 
 No skill may be increased above rank 2 during character creation.
 
-## TALENTS
+## Talents
 
 Talents are purchased from a character's Specialization talent trees. Talent costs are determined by the row they occupy, ranging from 5 XP for the first row to 25 XP for the fifth row. Characters may only purchase talents connected to talents they already possess, following the links shown in the tree.
 
 Ranked talents may be purchased multiple times only if they appear multiple times across the character's available talent trees.
 
-## ADDITIONAL SPECIALIZATIONS
+## Additional Specializations
 
 Characters begin with only a single Specialization within their chosen career, but they may purchase additional Specializations during character creation or later in play. A Specialization grants access to its associated talent tree and adds its listed skills to the character’s Career Skills (though the character does not gain the free ranks normally granted by their starting Specialization).
 

@@ -1,8 +1,12 @@
 ---
 publish: true
 created: 2026-08-11T03:57:30.395Z
-modified: 2026-08-22T17:01:04.156Z
+modified: 2026-08-22T17:15:14.900Z
 ---
+
+A character with a Cause Motivation is driven by an external group, belief, or ideal that they consider important. They are willing to take risks or step outside their comfort zone to support their cause, which may benefit others, serve their own interests, or even promote beliefs that others consider dangerous or harmful.
+
+### Specific Causes
 
 | d100   | Specific Cause                                                                                                                                                                                                                              |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

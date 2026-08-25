@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T21:48:28.272Z
-modified: 2026-08-22T17:09:16.720Z
+modified: 2026-08-25T01:51:10.546Z
 ---
 
 Weapons are among the most common tools of violence throughout the galaxy, ranging from simple hunting bows and slugthrowers to military-grade blasters and exotic energy weapons.
 
-Each weapon has an **Encumbrance**, **Rarity**, and **Price**, along with a profile describing its combat capabilities. Weapons may also have [[Weapon Attachments|Attachments]] that modify or expand their capabilities.
+Each weapon has an Encumbrance, Rarity, and Price, along with a profile describing its combat capabilities. Weapons may also have [[Weapon Attachments|Attachments]] that modify or expand their capabilities.
 
 ## Ranged Weapons
 
@@ -26,27 +26,15 @@ Each weapon has an **Encumbrance**, **Rarity**, and **Price**, along with a prof
 
 ## Ammunition and Payloads
 
-Many weapons can use specialized ammunition or payloads that modify their capabilities.
-
-[[Slugthrower Ammunition]] — Specialized ammunition for slugthrower pistols, rifles, and scatterguns.
-
-[[Arrows]] — Standard and specialized ammunition for projectile weapons.
-
-[[Grenades]] — Explosive and specialized thrown weapons.
-
-[[Micro-Rockets]] — Compact rocket ammunition for specialized launchers.
-
-[[Missiles]] — Specialized warheads for missile launchers.
-
-[[Mini-Torpedoes]] — Compact self-propelled explosive payloads.
+Many weapons can use specialized ammunition or payloads that modify their capabilities. General rules for ammunition, including running out of ammunition and Limited Ammo, are described in [[Ammunition and Payloads]].
 
 ## Weapon Maintenance
 
 Weapons are durable but can suffer damage through combat, environmental hazards, and other circumstances.
 
-[[Equipment Damage]] — Rules for weapon damage and destruction.
+[[Weapon Damage]] — Rules for weapon damage and destruction.
 
-[[Equipment Repair]] — Rules for repairing damaged weapons.
+[[Weapon Repair]] — Rules for repairing damaged weapons.
 
 ## Weapon Attachments
 

@@ -1,8 +1,12 @@
 ---
 publish: true
 created: 2026-08-11T03:56:01.400Z
-modified: 2026-08-22T17:01:00.078Z
+modified: 2026-08-22T17:14:26.126Z
 ---
+
+A character with an Ambition Motivation is driven by a personal goal, often centered on self-improvement or achievement. They may seek love, wealth, status, power, knowledge, or another personal desire. For specific categories of ambition which details the types of ambitions players can choose from. They should consider what they ultimately hope to achieve and why it matters to them.
+
+#### Specific Ambitions
 
 | d100   | Specific Ambition                                                                                                                                                                                                                                         |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
