@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T02:28:52.202Z
-modified: 2026-08-24T03:43:28.830Z
+modified: 2026-08-25T22:03:05.491Z
 ---
 
 ```swrpg
@@ -12,7 +12,7 @@ encumbrance: 1
 price: 20
 rarity: 2
 damage: 2
-critical: -
+critical: null
 hp: 2
 special: Ensnare 3, Knockdown, Limited Ammo 1
 ```

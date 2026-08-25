@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T22:49:11.728Z
-modified: 2026-08-24T23:17:15.715Z
+modified: 2026-08-25T22:01:21.963Z
 ---
 
 ```swrpg
@@ -9,7 +9,7 @@ layout: weapon
 skill: Brawl
 range: Engaged
 encumbrance: 2
-price: 1,250
+price: 1250
 rarity: 5
 damage: +0
 critical: 5

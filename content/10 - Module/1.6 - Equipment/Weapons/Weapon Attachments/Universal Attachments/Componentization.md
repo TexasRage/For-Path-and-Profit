@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-25T02:29:30.921Z
-modified: 2026-08-25T02:32:47.871Z
+modified: 2026-08-25T03:37:49.737Z
 ---
 
 ```swrpg
 layout: attachment
 hp: 1
-encumbrance: -
+encumbrance: "-"
 price: (R) 750
 rarity: 5
 ```

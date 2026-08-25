@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T07:00:57.120Z
-modified: 2026-08-24T07:08:31.962Z
+modified: 2026-08-25T21:57:06.369Z
 ---
 
 ```swrpg
@@ -12,7 +12,7 @@ encumbrance: 1
 price: 75
 rarity: 4
 damage: 8
-critical: -
+critical: null
 hp: 0
 special: Blast 8, Disorient 3, Limited Ammo 1, Stun Damage
 ```

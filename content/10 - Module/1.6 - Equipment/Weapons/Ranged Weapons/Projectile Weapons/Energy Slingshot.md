@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T02:28:52.025Z
-modified: 2026-08-24T03:39:25.170Z
+modified: 2026-08-25T22:03:19.687Z
 ---
 
 ```swrpg
@@ -12,7 +12,7 @@ encumbrance: 1
 price: 40
 rarity: 4
 damage: 3
-critical: -
+critical: null
 hp: 0
 special: Disorient 2, Stun Damage
 ```

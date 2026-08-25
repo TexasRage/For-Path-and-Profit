@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T07:00:36.240Z
-modified: 2026-08-24T07:06:37.720Z
+modified: 2026-08-25T21:56:59.924Z
 ---
 
 ```swrpg
@@ -12,7 +12,7 @@ encumbrance: 1
 price: 50
 rarity: 5
 damage: 0
-critical: -
+critical: null
 hp: 0
 special: Blast 2, Limited Ammo 1
 ```

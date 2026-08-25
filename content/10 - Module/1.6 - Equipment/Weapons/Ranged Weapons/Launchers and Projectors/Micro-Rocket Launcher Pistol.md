@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T04:05:17.258Z
-modified: 2026-08-24T04:18:12.328Z
+modified: 2026-08-25T22:02:53.182Z
 ---
 
 ```swrpg
@@ -12,7 +12,7 @@ encumbrance: 3
 price: 500
 rarity: 7
 damage: 0
-critical: -
+critical: null
 hp: 2
 special: None
 ```

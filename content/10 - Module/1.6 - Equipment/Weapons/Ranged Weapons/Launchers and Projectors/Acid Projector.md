@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T04:28:23.343Z
-modified: 2026-08-24T04:39:12.904Z
+modified: 2026-08-25T22:02:40.121Z
 ---
 
 ```swrpg
@@ -9,7 +9,7 @@ layout: weapon
 skill: Ranged (Heavy)
 range: Short
 encumbrance: 4
-price: 1,250
+price: 1250
 rarity: 7
 damage: 6
 critical: 2

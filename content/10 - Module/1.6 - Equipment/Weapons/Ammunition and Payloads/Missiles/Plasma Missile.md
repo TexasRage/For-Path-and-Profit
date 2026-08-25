@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T22:14:58.546Z
-modified: 2026-08-24T22:34:36.300Z
+modified: 2026-08-25T22:00:49.322Z
 ---
 
 ```swrpg

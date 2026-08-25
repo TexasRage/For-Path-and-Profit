@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T02:28:52.193Z
-modified: 2026-08-24T03:39:42.688Z
+modified: 2026-08-25T22:03:12.383Z
 ---
 
 ```swrpg
@@ -9,10 +9,10 @@ layout: weapon
 skill: Ranged (Heavy)
 range: Short
 encumbrance: 6
-price: 2,000
+price: 2000
 rarity: 7
 damage: 6
-critical: -
+critical: null
 hp: 3
 special: Ensnare 5, Stun Damage
 ```

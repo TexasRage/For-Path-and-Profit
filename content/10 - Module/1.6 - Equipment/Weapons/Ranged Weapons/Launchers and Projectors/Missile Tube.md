@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T04:21:48.397Z
-modified: 2026-08-24T04:28:20.375Z
+modified: 2026-08-25T22:03:01.272Z
 ---
 
 ```swrpg
@@ -9,7 +9,7 @@ layout: weapon
 skill: Gunnery
 range: Extreme
 encumbrance: 7
-price: (R) 7,500
+price: (R) 7500
 rarity: 8
 damage: 20
 critical: 2
