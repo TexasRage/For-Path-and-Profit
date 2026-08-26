@@ -45,11 +45,6 @@
    WEAPON CARD
    ============================================================ */
 
-.weapon-card {
-  aspect-ratio: 789 / 240;
-}
-
-
 /* Small stats */
 
 .weapon-skill {
@@ -144,7 +139,8 @@
    ============================================================ */
 
 .attachment-card {
-  aspect-ratio: 476 / 76;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .swrpg-card.attachment {
