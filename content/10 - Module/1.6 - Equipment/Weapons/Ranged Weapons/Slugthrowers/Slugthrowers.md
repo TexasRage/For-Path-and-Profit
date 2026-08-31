@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T02:28:52.001Z
-modified: 2026-08-23T22:15:45.944Z
+modified: 2026-08-29T19:03:14.473Z
 ---
 
 Considered the weapons of "backwater" worlds, _Slugthrowers_ are nonetheless simple, reliable, and easily manufactured or repaired in regions with limited infrastructure or technology.
@@ -12,11 +12,11 @@ Despite widespread bias against these "antiquated" weapons, _Slugthrowers_ remai
 
 #### Slugthrowers
 
-| Name                   | Skill          | Dam | Crit | Range  | Encum | HP  | Price | Rarity | Special          |
-| ---------------------- | -------------- | --- | ---- | ------ | ----- | --- | ----- | ------ | ---------------- |
-| [[Slugthrower Pistol]] | Ranged (Light) | 4   | 5    | Short  | 1     | 3   | 100   | 3      |                  |
-| [[Slugthrower Rifle]]  | Ranged (Heavy) | 7   | 5    | Medium | 5     | 3   | 250   | 3      | Cumbersome 2     |
-| [[Scattergun]]         | Ranged (Heavy) | 7   | 6    | Short  | 3     | 4   | 559   | 4      | Knockdown, Sweep |
+| Name                   | Skill          | Dam | Crit | Range  | Encum | HP  | Price | Rarity | Special                     |
+| ---------------------- | -------------- | --- | ---- | ------ | ----- | --- | ----- | ------ | --------------------------- |
+| [[Slugthrower Pistol]] | Ranged (Light) | 4   | 5    | Short  | 1     | 3   | 100   | 3      | -                           |
+| [[Slugthrower Rifle]]  | Ranged (Heavy) | 7   | 5    | Medium | 5     | 3   | 250   | 3      | Cumbersome 2                |
+| [[Scattergun]]         | Ranged (Heavy) | 8   | 3    | Short  | 3     | 4   | 550   | 4      | Knockdown, Sweep, Vicious 2 |
 
 ## Ammunition
 

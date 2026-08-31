@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-25T01:38:30.136Z
-modified: 2026-08-25T01:49:34.838Z
+modified: 2026-08-29T20:32:51.177Z
 ---
 
 Most weapons in the galaxy are designed with magazines, power packs, or internal ammunition systems capable of sustaining prolonged firefights. Rather than tracking individual shots, characters are assumed to carry enough standard Ammunition to last through an encounter.
@@ -10,14 +10,18 @@ This applies to both energy and projectile weapons, including [[Slugthrowers]] a
 
 ## Running out of Ammunition
 
+## RUNNING OUT OF AMMUNITION
+
 Weapons using standard Ammunition may run out during an encounter when the GM spends \[threat] or \[despair] generated on a combat check.
 
 The amount required depends on the type of weapon:
 
-- Blasters and other energy weapons: The GM must spend \[despair].
-- Slugthrowers and Compound Bows: The GM must spend \[threat]\[threat]\[threat] or \[despair].
+- **Blasters and other energy weapons:** The GM must spend \[despair].
+- **Slugthrowers and Compound Bows:** The GM must spend \[threat]\[threat]\[threat] or \[despair].
 
-When this occurs, the weapon is considered Out of Ammunition for the remainder of the encounter unless the character has an [[Extra Reload]] available.
+Specialized ammunition that does not have the **Limited Ammo** quality follows a separate threshold. The weapon runs out of the specialized ammunition when the GM spends \[threat]\[threat] or \[despair] generated on a combat check.
+
+When this occurs, the weapon is considered **Out of Ammunition** for the remainder of the encounter unless the character has an [[Extra Reload]] available.
 
 A character with an [[Extra Reload]] may reload the weapon according to the normal reload rules.
 

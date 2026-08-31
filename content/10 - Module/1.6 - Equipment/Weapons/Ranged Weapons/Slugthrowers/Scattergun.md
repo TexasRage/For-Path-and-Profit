@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-24T02:28:52.022Z
-modified: 2026-08-23T22:16:01.076Z
+modified: 2026-08-29T19:03:03.963Z
 ---
 
 ```swrpg
@@ -11,10 +11,10 @@ range: Short
 encumbrance: 3
 price: 550
 rarity: 4
-damage: 7
-critical: 6
+damage: 8
+critical: 3
 hp: 4
-special: Knockdown, Sweep
+special: Knockdown, Sweep, Vicious 2
 ```
 
 Designed to fire a spread of steel pellets at close range, Scatterguns are highly effective against intruders, small predators, and evasive vermin. The large-bore Scattergun features a modern semi-automatic firing system that uses recoil to chamber the next shell, allowing for rapid follow-up shots under stress.
